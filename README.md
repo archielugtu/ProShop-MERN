@@ -3,6 +3,7 @@ An eCommerce website that sells electronic products for cheap. Integrated with P
 
 ## Live Demo
 * Click on this link [here](https://proshop-site.herokuapp.com/)
+* Admin Account (admin@user.com, password123)
 ## Prerequisites
 * Account in MongoDB (For storing the user data) https://www.mongodb.com
 * Account in PayPal (for sandbox account)
